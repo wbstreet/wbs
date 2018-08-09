@@ -10,3 +10,6 @@
 [submodule "templates/wbs_t_landing"]
 	path = templates/wbs_t_landing
 	url = git://github.com/wbstreet/wbs_t_landing.git
+[submodule "modules/wbs_core"]
+	path = modules/wbs_core
+	url = git://github.com/wbstreet/wbs_core.git
