@@ -13,3 +13,39 @@
 [submodule "modules/wbs_core"]
 	path = modules/wbs_core
 	url = git://github.com/wbstreet/wbs_core.git
+[submodule "modules/wbs_admin"]
+	path = modules/wbs_admin
+	url = git://github.com/wbstreet/wbs_admin.git
+[submodule "modules/wbs_minishop"]
+	path = modules/wbs_minishop
+	url = git://github.com/wbstreet/wbs_minishop.git
+[submodule "modules/wbs_markdown"]
+	path = modules/wbs_markdown
+	url = git://github.com/wbstreet/wbs_markdown.git
+[submodule "modules/wbs_teaser"]
+	path = modules/wbs_teaser
+	url = git://github.com/wbstreet/wbs_teaser.git
+[submodule "modules/wbs_auth"]
+	path = modules/wbs_auth
+	url = git://github.com/wbstreet/wbs_auth.git
+[submodule "modules/wbs_guestbook"]
+	path = modules/wbs_guestbook
+	url = git://github.com/wbstreet/wbs_guestbook.git
+[submodule "modules/wbs_portal"]
+	path = modules/wbs_portal
+	url = git://github.com/wbstreet/wbs_portal.git
+[submodule "modules/wbs_portal_obj_estate"]
+	path = modules/wbs_portal_obj_estate
+	url = git://github.com/wbstreet/wbs_portal_obj_estate.git
+[submodule "modules/wbs_portal_obj_blog"]
+	path = modules/wbs_portal_obj_blog
+	url = git://github.com/wbstreet/wbs_portal_obj_blog.git
+[submodule "modules/wbs_portal_obj_profile"]
+	path = modules/wbs_portal_obj_profile
+	url = git://github.com/wbstreet/wbs_portal_obj_profile.git
+[submodule "modules/wbs_portal_obj_project"]
+	path = modules/wbs_portal_obj_project
+	url = git://github.com/wbstreet/wbs_portal_obj_project.git
+[submodule "templates/wbs_t_3d"]
+	path = templates/wbs_t_3d
+	url = git://github.com/wbstreet/wbs_t_3d.git
