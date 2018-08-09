@@ -5,8 +5,8 @@
 	path = templates/wbs_t_business
 	url = git://github.com/wbstreet/wbs_t_business.git
 [submodule "templates/wbs_t_parallax"]
-	path = template/wbs_t_parallax
+	path = templates/wbs_t_parallax
 	url = git://github.com/wbstreet/wbs_t_parallax.git
 [submodule "templates/wbs_t_landing"]
-	path = template/wbs_t_landing
+	path = templates/wbs_t_landing
 	url = git://github.com/wbstreet/wbs_t_landing.git
