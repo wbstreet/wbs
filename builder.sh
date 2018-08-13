@@ -10,7 +10,7 @@ cd ../../
 
 # load engine
 
-wget -O engine.zip http://addon.websitebaker.org/pages/en/browse-add-ons.php?download=0EC5EAC3
+wget -O engine.zip https://addon.websitebaker.org/pages/en/browse-add-ons.php?download=04A499A4
 unzip engine.zip
 rm engine.zip
 mv ./config.php.new ./config.php
