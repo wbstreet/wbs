@@ -1,5 +1,7 @@
 cd $(dirname $0)
 
+# load submodules, if you don't use '--recursive' key (git clone --recursive)
+
 git submodule init
 git submodule update
 
